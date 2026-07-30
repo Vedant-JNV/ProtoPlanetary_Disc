@@ -20,7 +20,7 @@ The primary goal is educational while remaining scientifically motivated, allowi
 - Surface density modelling
 - Hydrostatic equilibrium solver
 - Keplerian rotation calculations
-- Optional gap/ring generation (future)
+- Planetary Gap addition
 - Easily extendable for additional physics
 
 ---
@@ -142,9 +142,7 @@ Vertical Density
         │
         ▼
 Visualization
-        │
-        ▼
-Interactive Dashboard
+
 ```
 
 ---
